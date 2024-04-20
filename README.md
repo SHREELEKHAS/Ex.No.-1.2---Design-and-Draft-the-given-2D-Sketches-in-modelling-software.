@@ -1,5 +1,6 @@
+## SHREE LEKHA.S(212223110052)
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+## DATE:31.03.2024
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
